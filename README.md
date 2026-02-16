@@ -194,6 +194,9 @@ streamlit run app.py
 * Authentication & Role-based Access
 
 ---
+## Project screenshot
+<img width="1897" height="909" alt="Screenshot 2026-02-16 195453" src="https://github.com/user-attachments/assets/51b3d59b-6032-4114-a074-2b7aaab58ed7" />
+
 
 ## 👨‍💻 Author
 
