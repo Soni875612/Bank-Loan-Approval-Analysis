@@ -104,8 +104,7 @@ Input financial attributes and returns:
 * Strategic value
 ## 📂 Dataset
 
-Dataset file is available in this repository:
-
+The dataset used in this project contains applicant financial details such as income, loan amount, and credit history.
 
 ---
 
